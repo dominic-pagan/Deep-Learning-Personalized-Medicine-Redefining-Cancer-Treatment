@@ -1,4 +1,4 @@
-# Personalized-Medicine-Redefining-Cancer-Treatment-
+# Personalized Medicine Redefining Cancer Treatment:
 Deep Learning Project using Keras Deep Learning Library to predict the effect of Genetic Variants to enable personalized Medicine.
 
 A lot has been said during the past several years about how precision medicine and, more concretely, how genetic testing is going to disrupt the way diseases like cancer are treated.
